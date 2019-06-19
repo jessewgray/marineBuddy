@@ -1,6 +1,6 @@
 # Final Project - Marine Buddy! 
 
-##### Technologies used: HTML, JavaScript, D3, jQuery, Bootstrap, Python, Flask, MySQL, SQL Alchemy
+##### Technologies used: HTML, CSS, JavaScript, D3, jQuery, Bootstrap, Python, Flask, MySQL, SQL Alchemy
 
 ## Background
 
